@@ -1,3 +1,16 @@
 # micro-react-demo
 
-微前端子模块--react
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm start
+```
+
+### Compiles and minifies for production
+```
+npm run build
